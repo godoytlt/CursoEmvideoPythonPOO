@@ -1,0 +1,13 @@
+Fundamentação
+Programação Orientada a Objeto - POO
+
+(Sem querer apaguei a pasta e todo conteudo que anotei foi perdido)
+Crise do software 1960
+
+Alan Kay
+    Criou o Dynabook, intuito de ser usado para ensinar crianças
+    Idealizou o Notebook
+    Criou o SmallTalk a partir do ALGOL
+    Criou o mouse
+
+Dijkstra

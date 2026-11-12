@@ -1,0 +1,42 @@
+Quais são as vantagens em usar o POO?
+
+Exemplo:
+Carro é um sistema
+    Rotinas e passos para montar um Carro através da linha de montagem
+
+COMERNada 
+C - Confiável
+O - Oportuno
+M - Manutevível
+E - Extensível
+R - Reutilizavel
+N - Natural
+
+Confiável
+    O isolamento das partes gera um sistema mais seguro. Ao alterar uma das partes, nenhuma outra é alterada
+
+Oportuno
+    Ao dividir tudo em partes cada uma pode ser divida em paralelo. Enmquanto uma parte é produzida outra pode ser produzida também
+
+Manutevível
+    Fácil manutenção. Uma pequena aalteração vai beneficiar todas as partes relacionadas.
+
+Extensível
+    Um sistema não deve ser estático, Tudo deve mudar e crescer para permanecer util
+
+Reutilizavel
+    Objetos criados para um sistema, podem ser utilizados em outros sistemas
+
+Natural
+    Mais fácil de entender. Maior atenção as funcionalidades do que aos detalhes de implementação.
+
+QUESTÃO 1 - Crie um sistema para a Escola, ao criar outro sistema para a Academia, parte do sistema já estará feita, pois tenho Aluno nos dois. 
+    Reutilizavel
+QUESTÃO 2 - Se precisar adicionar uma nova funcionalidade ao sistema, consigo fazer isso com grande facilidade.
+    Extensível
+QUESTÃO 3 - Posso desenvolver várias funções que dependam uma da outra ao mesmo tempo se o planejamento for seguido
+    Oportuno
+QUESTÃO 4 - O código fica muito simples de ler e de compreender, já que não preciso saber os detalhes de funcionamento ao programar.
+    Natural
+QUESTÃO 5 - Eu posso alterar como uma funcionalidade trabalha e tudo continua funcionando como antes.
+    Confiavel

@@ -1,0 +1,87 @@
+O que são objetos? O que são classes?
+
+Exemplo:
+
+Biscoitos
+    Biscoitos do mesmo formato. Como podemos diferencia-los?
+    A forma do biscoito seria a classe do objetos
+    ________________________
+    |NomeClasse             |
+    |Caracteristicas        | 
+    |Coisas que posso fazer |
+    |_______________________|
+
+    Classe
+    BiscoitoCoracao
+    
+    Atributos:
+    tamanho 
+    massa 
+    peso
+    cozido
+    temperatura
+    
+    Métodos:
+    cozinhar()
+    congelar()
+    cobrir()
+    confeitar()
+    podeComer()
+    comer()
+
+    INSTANCIA seria quando pega a forma e coloco na massa
+    Objeto seria o biscoito no formato da forma após ser instaciado pela classe forma\
+    Objetos vem de classes. e classes fazem objetos
+
+"Objeto é uma coisa material ou abstrata que é feita a partir de um modelo e pode ser descrita por meio das suas caracteristicas, comportamentos e estado atual."
+
+Objetos abstratos:
+    Consulta marcada no médico
+    Processo de venda
+    Compromisso ou reunião
+    Uma aula na faculdade
+    Transação bancária
+    Um erro do sistema
+
+Desafios:
+11 - Qual objeto seria o unico abstrato da lista? (sensor, robô, notificação, Livro)
+R - notificação
+12 - na teoria de orientação de objeto, o termo usado para o ato de fazer um objeto existir, a partir de um modelo se chama:
+R - Instanciar
+13 - Todo objeto tem uma lista de atividades que podem ser feitas com ele ou que ele pode desempenhar sozinho, que são:
+R - Métodos
+14 - Ao conjunto de todos os valores de atributos de um objeto em um determinado momento, damos o nome de:
+R - estado
+15 - Escreva a estrutura de dois objetos: um concreto e outro abstrato.
+Inclua também seus principais atributos, métodos e crie um exemplo de estado para cada um deles.
+
+Classe:
+pilula
+
+Atributos:
+cor
+tamanho
+peso
+diametro
+altura
+
+Métodos:
+vazioOuCheio()
+horaDeTomar()
+vezesAoDia()
+
+Classe:
+Dia
+
+Atributos
+segundos
+minutos
+hora
+dia
+clima
+temperatura
+velocidade do vento
+
+Métodos:
+tomar_sol()
+pegar_chuva()
