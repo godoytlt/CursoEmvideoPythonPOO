@@ -1,4 +1,4 @@
 from rich import print
 from rich import inspect
 
-inspect(int, all=True)
+inspect(int, all=True) # Ordenado e vem com TODAS as informações 
